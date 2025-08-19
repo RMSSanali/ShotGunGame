@@ -92,13 +92,24 @@ Optional improvements (not required for G) are noted in the roadmap and can be a
     - Sound effects and animations
     - Persistent high scores
 
- ## Screenshots / Demo
+## Screenshots / Demo
 
- ![1](https://github.com/user-attachments/assets/dcbc1273-f3a8-4bd6-906b-10f5af25c480)
- ![2](https://github.com/user-attachments/assets/5ba5fec1-a5a2-4086-a3c9-f0f0c5ede2a7)
- ![3](https://github.com/user-attachments/assets/d00d211a-e9f2-4bd8-9a15-5373fe6e2bf1)
- ![4](https://github.com/user-attachments/assets/e77a9eb5-91cd-4b18-827f-fd3beb78f8af)
- ![Shotgun](https://github.com/user-attachments/assets/8bba091d-ba9d-4f59-b69a-a4069cbfb1e4)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/dcbc1273-f3a8-4bd6-906b-10f5af25c480" width="400"/>
+  <img src="https://github.com/user-attachments/assets/5ba5fec1-a5a2-4086-a3c9-f0f0c5ede2a7" width="400"/>
+</p>
+<p align="center"><em>Player loads a bullet while opponent blocks</em></p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d00d211a-e9f2-4bd8-9a15-5373fe6e2bf1" width="400"/>
+  <img src="https://github.com/user-attachments/assets/e77a9eb5-91cd-4b18-827f-fd3beb78f8af" width="400"/>
+</p>
+<p align="center"><em>Shooting action and empty bullets warning</em></p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8bba091d-ba9d-4f59-b69a-a4069cbfb1e4" width="400"/>
+</p>
+<p align="center"><em>Shotgun move → instant win</em></p>
 
 ## 📄 Project Documentation
 
