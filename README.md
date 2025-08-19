@@ -60,7 +60,7 @@ Optional improvements (not required for G) are noted in the roadmap and can be a
    git clone https://github.com/<your-username>/ShotgunGame.git
 
    
-**Implementation Notes (OOP)**
+## Implementation Notes (OOP)
 
 - **GameState** class to track bullets, last moves, and win state.
 
@@ -86,13 +86,13 @@ Optional improvements (not required for G) are noted in the roadmap and can be a
 
   - Dialog to show winner and Play Again option.
 
-**Roadmap (optional):**
+- **Roadmap (optional):**
 
- - Smarter AI (avoid “Block” when opponent has 0 bullets, etc.)
- - Sound effects and animations
- - Persistent high scores
+    - Smarter AI (avoid “Block” when opponent has 0 bullets, etc.)
+    - Sound effects and animations
+    - Persistent high scores
 
- **Screenshots / Demo**
+ ## Screenshots / Demo
 
  ![1](https://github.com/user-attachments/assets/dcbc1273-f3a8-4bd6-906b-10f5af25c480)
  ![2](https://github.com/user-attachments/assets/5ba5fec1-a5a2-4086-a3c9-f0f0c5ede2a7)
@@ -100,7 +100,7 @@ Optional improvements (not required for G) are noted in the roadmap and can be a
  ![4](https://github.com/user-attachments/assets/e77a9eb5-91cd-4b18-827f-fd3beb78f8af)
  ![Shotgun](https://github.com/user-attachments/assets/8bba091d-ba9d-4f59-b69a-a4069cbfb1e4)
 
-**Project Documentation**
+## 📄 Project Documentation
 
 A short technical note is included in the repo (e.g., docs/notes.md) describing:
 
@@ -108,8 +108,7 @@ A short technical note is included in the repo (e.g., docs/notes.md) describing:
 - UI flow and state updates.
 - How to extend AI logic.
 
-**Author**
-
-**Sanali Sewwandi**
+## 👤 Author
+Sanali Sewwandi
 Cloud Developer Student – CUA24S
 JENSEN Yrkeshögskola, 2025
